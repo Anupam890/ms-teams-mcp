@@ -24,6 +24,7 @@
     "graph-api",
     "claude"
   ],
+  "homepage": "https://github.com/Anupam890/ms-teams-mcp",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Anupam890/ms-teams-mcp.git"
